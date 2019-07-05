@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactapi/static/css/main.ba6d1b7d.chunk.css",
+    "main.js": "/reactapi/static/js/main.4b00e681.chunk.js",
+    "main.js.map": "/reactapi/static/js/main.4b00e681.chunk.js.map",
+    "runtime~main.js": "/reactapi/static/js/runtime~main.c04d4a63.js",
+    "runtime~main.js.map": "/reactapi/static/js/runtime~main.c04d4a63.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/reactapi/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/reactapi/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/reactapi/index.html",
+    "precache-manifest.ebac8e695ebc8045e3abddbe15891baf.js": "/reactapi/precache-manifest.ebac8e695ebc8045e3abddbe15891baf.js",
+    "service-worker.js": "/reactapi/service-worker.js",
+    "static/css/main.ba6d1b7d.chunk.css.map": "/reactapi/static/css/main.ba6d1b7d.chunk.css.map"
+  }
+}
